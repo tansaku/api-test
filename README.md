@@ -1,1 +1,1 @@
-/some_new_path /some_other_new_path /introduction.md /you.md /success.md
+/some_new_path /some_other_new_path /introduction.md /you.md /success.mdtest
